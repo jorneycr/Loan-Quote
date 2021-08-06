@@ -1,6 +1,7 @@
-# React project Loan quote
+# React project Loan quote https://cotizador-prestamo.netlify.app/
 
-https://cotizador-prestamo.netlify.app/
+![image](https://user-images.githubusercontent.com/30164447/128457129-ee7ddd5d-99b0-47a7-a474-eaf985aeae5c.png)
+
 
 ## Available Scripts
 
